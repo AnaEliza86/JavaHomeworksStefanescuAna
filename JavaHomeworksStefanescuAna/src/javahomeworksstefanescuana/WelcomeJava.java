@@ -19,9 +19,6 @@ public class WelcomeJava {
         int prod = a * b;
         int result = a - b;
         
-       
-        
-        
         System.out.println(a + " + " + b + " = " + sum);
         System.out.println(a + "-" + b + " = " + result);
         System.out.println(a + "*" + b + " = " + prod);
